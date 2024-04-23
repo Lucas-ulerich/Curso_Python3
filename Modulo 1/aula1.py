@@ -8,7 +8,7 @@ print(123) # Podemos ter comentários na frente da linha de código
 
 """
 Isso é uma DocString, o Python não ignora ele vai ler cada linha.
-e podemos ter miltiplas lihas
+e podemos ter miltiplas linhas!!
 
-A DocString server para documentar o código de forma clara e de facil manutentção
+A DocString serve para documentar o código de forma clara e de facil manutentção.
 """
