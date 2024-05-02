@@ -21,4 +21,5 @@ O argumento end=" " mexe no final dos argumentos, podemos adicionar qualquer coi
 ou colocar uma quebra de linha
 """
 
-print(12, 45, 1001, end='\n#')
+print(12, 45, 1001, end='#\n')
+print(12, 45, 1001, end='\n****')
