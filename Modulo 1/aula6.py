@@ -2,7 +2,7 @@
 # É o ato de converter um tipo em outro tipos imutáveis e primitivos.
 # str, int, float, bool
 
-print(1 + 1)
+print('1' + 1)
 print('a' + 'b') # o sinal de mais também server para concatenar
 
 # print('1' + 1) # vai gerar erro de tipo pois o python não converte os tipos automaticamente.
