@@ -15,7 +15,7 @@ senha_permitida = '123456'
 
 # Todas as condições precisam ser verdadeiras para entrar.
 # Em python, se a primeira condição for falsa, ele não checa a segunda.
-if entrada == 'E' and senha_digitada == senha_permitida:
+if (entrada == 'E' or entrada == 'e') and senha_digitada == senha_permitida:
     print('Entrar')
 else:
     print('Sair')
